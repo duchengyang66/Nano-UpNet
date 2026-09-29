@@ -4,8 +4,8 @@ Nano-UpNet is a deep-learning framework for predicting nanoparticle uptake from 
 
 The inference pipeline consists of two steps:
 
-1. **Cell-type recognition using YOLOv8**
-2. **Nanoparticle uptake prediction using pix2pixHD**
+1. **Cell-type recognition**
+2. **Nanoparticle uptake prediction**
 
 ## Installation
 
