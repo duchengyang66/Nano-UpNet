@@ -1,5 +1,4 @@
 # Nano-UpNet
-# Nano-UpNet
 
 Nano-UpNet is a deep-learning framework for predicting nanoparticle uptake from label-free bright-field microscopy images.
 
